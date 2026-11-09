@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that gives a multi-branch pharmacy chain a single view of its sales, profitability, product performance, and payment trends.
 
-![Pharmacy Sales Dashboard](pharmacy-dashboard.png)
+![Pharmacy Sales Dashboard](pharmacy_sales_dashboard.png)
 
 ## Project Overview
 
